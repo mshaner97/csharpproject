@@ -1,0 +1,14 @@
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/bin/Debug/net10.0/Starter
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/bin/Debug/net10.0/Starter.deps.json
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/bin/Debug/net10.0/Starter.runtimeconfig.json
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/bin/Debug/net10.0/Starter.dll
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/bin/Debug/net10.0/Starter.pdb
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.AssemblyInfoInputs.cache
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.AssemblyInfo.cs
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.csproj.CoreCompileInputs.cache
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.dll
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/refint/Starter.dll
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.pdb
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.genruntimeconfig.cache
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/ref/Starter.dll
