@@ -18,7 +18,10 @@ This C# console application is designed to:
     Emma:           85.6    B
     Logan:          91.2    A-
 */
+using System.ComponentModel;
+
 int examAssignments = 5;
+int currentStudentExtraCredit = (gradedAssignments)[i]> 6;
 
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 
@@ -33,7 +36,7 @@ string currentStudentLetterGrade = "";
 
 // display the header row for scores/grades
 Console.Clear();
-Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\t\tExtra Credit\n");
 
 /*
 The outer foreach loop is used to:
@@ -64,6 +67,12 @@ foreach (string name in studentNames)
     decimal currentStudentOverallGrade = 0;
 
     int gradedAssignments = 0;
+
+    decimal currentStudentExamScore = 0;
+
+    decimal currentStudentExtraCredit = 0;
+
+    decimal currentStudentExtraCreditPoints = 0;
 
     /* 
     the inner foreach loop sums assignment scores
@@ -124,8 +133,8 @@ foreach (string name in studentNames)
     // Student         Grade
     // Sophia:         92.2    A-
     
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentOverallGrade}\t{currentStudentLetterGrade}");
-    //Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentOverallGrade}\t{currentStudentLetterGrade}\t\t{currentStudentExtraCredit}");
+   // Console.WriteLine($"{currentStudent}\t\t{currentStudentOverallGrade}\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentOverallGrade}\t{currentStudentLetterGrade}\t\t{currentStudentExtraCredit} ({currentStudentExtraCreditPoints} pts)");
 
 }
 

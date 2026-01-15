@@ -12,3 +12,4 @@
 /Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.pdb
 /Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.genruntimeconfig.cache
 /Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/ref/Starter.dll
+/Users/maggieshaner/Downloads/Challenge-project-foreach-if-array-CSharp-main 2/ChallengeProject/Starter/obj/Debug/net10.0/Starter.sourcelink.json
